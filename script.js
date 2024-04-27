@@ -1,0 +1,1 @@
+let question = window.prompt("What window method am I using?")
